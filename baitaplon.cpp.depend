@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1744084874 source:c:\code\code\game\baitaplon\baitaplon.cpp\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	"graphics.h"
+	"menu.h"
+	"music.h"
+
+1742871524 c:\code\code\game\baitaplon\baitaplon.cpp\dohoa.h
+
+1744099469 source:c:\code\code\game\baitaplon\baitaplon.cpp\graphics.cpp
+	<iostream>
+	"graphics.h"
+
+1744083876 c:\code\code\game\baitaplon\baitaplon.cpp\graphics.h
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+	<SDL_ttf.h>
+
+1744099313 c:\code\code\game\baitaplon\baitaplon.cpp\defs.h
+
+1744099790 source:c:\code\code\game\baitaplon\baitaplon.cpp\menu.cpp
+	"menu.h"
+	<iostream>
+
+1744099592 c:\code\code\game\baitaplon\baitaplon.cpp\menu.h
+	"graphics.h"
+	"snake.h"
+	"music.h"
+
+1744099069 source:c:\code\code\game\baitaplon\baitaplon.cpp\snake.cpp
+	"snake.h"
+	<iostream>
+
+1744090122 c:\code\code\game\baitaplon\baitaplon.cpp\snake.h
+	"graphics.h"
+	<vector>
+	"defs.h"
+	"logic.h"
+
+1744099918 source:c:\code\code\game\baitaplon\baitaplon.cpp\logic.cpp
+	"logic.h"
+
+1744098732 c:\code\code\game\baitaplon\baitaplon.cpp\logic.h
+	"graphics.h"
+	<vector>
+	<string>
+	<ctime>
+	<cstdlib>
+	"music.h"
+	<fstream>
+
+1743950184 source:c:\code\code\game\baitaplon\baitaplon.cpp\music.cpp
+	"music.h"
+
+1743949693 c:\code\code\game\baitaplon\baitaplon.cpp\music.h
+	"graphics.h"
+	<SDL_mixer.h>
+	<iostream>
+
