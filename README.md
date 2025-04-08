@@ -36,4 +36,4 @@
 
 ## **Tải code**
 
--Dùng terminal hoặc git bash tải source code về máy: git clone :
+-Dùng terminal hoặc git bash tải source code về máy: git clone : https://github.com/QuanBaoDuong/gameltnc
