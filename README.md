@@ -37,3 +37,12 @@
 ## **Tải code**
 
 -Dùng terminal hoặc git bash tải source code về máy: git clone : https://github.com/QuanBaoDuong/gameltnc
+
+---
+
+##Một vài Screenshot
+
+
+![backgroundgame](https://github.com/user-attachments/assets/fbd1bd14-d203-40ce-9791-32d1b79c4ac2)
+![playgame](https://github.com/user-attachments/assets/04d9ed00-6cda-4669-a09c-ca6884651463)
+![helpgame](https://github.com/user-attachments/assets/5a0379d6-affa-4134-8eab-7a07f3d08d08)
